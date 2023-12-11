@@ -1,1 +1,11 @@
-# intern-interview
+# Instructions
+Install following tools:
+- Zoom
+- Git
+- Visual Studio Code
+- Live Server Extension for Visual Studio Code
+- Live Share Extension for Visual Studio Code
+- Carnac http://carnackeys.com/
+
+Clone this repository.
+
