@@ -9,4 +9,4 @@ Install following tools:
 
 Clone this repository.
 Create github account and use it to log in to Live Share.
-
+Create file [first name]-[last name].txt, commit and push.
